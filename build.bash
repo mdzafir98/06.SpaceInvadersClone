@@ -1,0 +1,1 @@
+g++ -o main.exe main.cpp src/Game.cpp src/Spaceship.cpp src/Laser.cpp src/Alien.cpp src/Block.cpp src/Obstacle.cpp src/SoundManager.cpp -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
